@@ -3,6 +3,22 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.24.0](https://github.com/MESH-Research/Pilcrow/compare/v0.23.0...v0.24.0) (2023-05-01)
+
+
+### Features
+
+* Implement Home Page Design ([#1817](https://github.com/MESH-Research/Pilcrow/issues/1817)) ([104a742](https://github.com/MESH-Research/Pilcrow/commit/104a7421b6eff95da5e12b0923d5c501ab02acc8)), closes [#1806](https://github.com/MESH-Research/Pilcrow/issues/1806)
+* Update en-US i18n.js text ([#1827](https://github.com/MESH-Research/Pilcrow/issues/1827)) ([7cf1aa1](https://github.com/MESH-Research/Pilcrow/commit/7cf1aa12fd61412111e56c5533462becfeb04ec7))
+
+
+### Bug Fixes
+
+* **deps:** update dependency @apollo/client to v3.7.13 ([1a5af92](https://github.com/MESH-Research/Pilcrow/commit/1a5af92b5b60f56f3f6df0bc903fba88eba17719))
+* **deps:** update dependency @quasar/extras to v1.16.3 ([67da037](https://github.com/MESH-Research/Pilcrow/commit/67da037ff52d193c52d3eefc671fb6f3759e495f))
+* **deps:** update dependency laravel/sanctum to v3.2.4 ([2b2292c](https://github.com/MESH-Research/Pilcrow/commit/2b2292ce8b9e9a45e628eabdb86f36793a7c2665))
+* redeploy staging environments ([#1820](https://github.com/MESH-Research/Pilcrow/issues/1820)) ([8365cda](https://github.com/MESH-Research/Pilcrow/commit/8365cdad0ef5e9a1fff2b58ee2968297a6a63354))
+
 ## [0.23.0](https://github.com/MESH-Research/Pilcrow/compare/v0.22.3...v0.23.0) (2023-04-26)
 
 
