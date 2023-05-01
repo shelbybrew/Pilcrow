@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "bc89ca90fb3967c1a8f83149516bfe69",
+    "content-hash": "212ff64e6b7da1529694c339544562c0",
     "packages": [
         {
             "name": "bensampo/laravel-enum",
@@ -4582,16 +4582,16 @@
         },
         {
             "name": "spatie/laravel-settings",
-            "version": "2.8.3",
+            "version": "3.0.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/spatie/laravel-settings.git",
-                "reference": "9193603a3e02d19af9f2fd0d309ac2469b25d680"
+                "reference": "d3637062741197dd7a7fdade185b5d2196429b59"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/spatie/laravel-settings/zipball/9193603a3e02d19af9f2fd0d309ac2469b25d680",
-                "reference": "9193603a3e02d19af9f2fd0d309ac2469b25d680",
+                "url": "https://api.github.com/repos/spatie/laravel-settings/zipball/d3637062741197dd7a7fdade185b5d2196429b59",
+                "reference": "d3637062741197dd7a7fdade185b5d2196429b59",
                 "shasum": ""
             },
             "require": {
@@ -4653,7 +4653,7 @@
             ],
             "support": {
                 "issues": "https://github.com/spatie/laravel-settings/issues",
-                "source": "https://github.com/spatie/laravel-settings/tree/2.8.3"
+                "source": "https://github.com/spatie/laravel-settings/tree/3.0.0"
             },
             "funding": [
                 {
@@ -4665,7 +4665,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2023-03-30T12:47:39+00:00"
+            "time": "2023-04-28T07:44:33+00:00"
         },
         {
             "name": "spatie/regex",
@@ -4732,16 +4732,16 @@
         },
         {
             "name": "spatie/temporary-directory",
-            "version": "2.1.1",
+            "version": "2.1.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/spatie/temporary-directory.git",
-                "reference": "e2818d871783d520b319c2d38dc37c10ecdcde20"
+                "reference": "0c804873f6b4042aa8836839dca683c7d0f71831"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/spatie/temporary-directory/zipball/e2818d871783d520b319c2d38dc37c10ecdcde20",
-                "reference": "e2818d871783d520b319c2d38dc37c10ecdcde20",
+                "url": "https://api.github.com/repos/spatie/temporary-directory/zipball/0c804873f6b4042aa8836839dca683c7d0f71831",
+                "reference": "0c804873f6b4042aa8836839dca683c7d0f71831",
                 "shasum": ""
             },
             "require": {
@@ -4777,7 +4777,7 @@
             ],
             "support": {
                 "issues": "https://github.com/spatie/temporary-directory/issues",
-                "source": "https://github.com/spatie/temporary-directory/tree/2.1.1"
+                "source": "https://github.com/spatie/temporary-directory/tree/2.1.2"
             },
             "funding": [
                 {
@@ -4789,7 +4789,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2022-08-23T07:15:15+00:00"
+            "time": "2023-04-28T07:47:42+00:00"
         },
         {
             "name": "symfony/console",
